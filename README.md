@@ -1,4 +1,4 @@
-# 🎉 Black Friday deals for SAAS
+# 🎉 Black Friday deals 2024 (SAAS)
 
 ## 🌟 Premium Sponsor Platforms
 
