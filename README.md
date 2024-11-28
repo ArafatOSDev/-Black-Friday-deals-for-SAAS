@@ -2,15 +2,6 @@
 
 ## 🌟 Premium Sponsor Platforms
 
-### [StaticHost.host](https://statichost.host) 🚀
-- **Exclusive Discount:** 15% Off Cloud Infrastructure
-- **Coupon Code:** `WELCOME`
-- **Pro Features:** 
-  - Unlimited Scalable Hosting
-  - Custom Domain Integration
-  - Unlimited Traffic
-  - 24/7 Advanced Support
-
 ### [mnml.ai](https://mnml.ai) 🧠
 - **Exclusive Offer:** 45% Off with all plans
 - **Coupon Code:** `BF25`
@@ -19,6 +10,15 @@
   - Monthly & One time credits Subscription
   - AI Upscale, AI Enhancer included
   - InteriorAI, ExteriorAi, Canvas with all premium tools
+
+### [StaticHost.host](https://statichost.host) 🚀
+- **Exclusive Discount:** 15% Off Cloud Infrastructure
+- **Coupon Code:** `WELCOME`
+- **Pro Features:** 
+  - Unlimited Scalable Hosting
+  - Custom Domain Integration
+  - Unlimited Traffic
+  - 24/7 Advanced Support
 
 ## 🤖 Top AI & Machine Learning Deals
 
