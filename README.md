@@ -19,58 +19,146 @@
 
 ---
 
-## 🤖 Top AI & Machine Learning Deals
-- **[MindPal](https://mindpal.io):** 60% Off Yearly Plans  
-  Automate business processes with AI workflows.  
-- **[Airbrush](https://www.airbrush.ai):** 75% Off  
-  Create high-quality images with 100+ AI models.  
-- **[PDF Pals](https://pdfpals.com):** 53% Off  
-  Chat with PDFs for enhanced productivity.  
-- **[WhisperUI](https://whisperui.com):** 60% Off  
-  Affordable speech-to-text service powered by OpenAI.  
+### 🤖 **Top AI & Machine Learning Tools**
+**[MindPal](https://mindpal.io)**  
+60% Off – Build workflows for business automation.  
+
+**[Airbrush](https://airbrush.ai)**  
+75% Off – AI-powered image generator with 100+ models.  
+
+**[PDF Pals](https://pdfpals.com)**  
+53% Off – Chat with PDFs and extract key information.  
+
+**[WhisperUI](https://whisperui.com)**  
+60% Off – Affordable speech-to-text service.  
+
+**[IllustraAI](https://illustraai.com)**  
+30% Off – Generate consistent vector illustrations.  
+
+**[Submagic](https://submagic.co)**  
+40% Off – AI subtitle generation for videos.  
+
+**[AI Face Swap](https://aisaver.io)**  
+70% Off – High-quality photo and video face swapping.  
+
+**[DocuChat](https://docuchat.io)**  
+90% Off – AI chatbots trained on your documents.  
 
 ---
 
-## 💻 Developer Tools  
-- **[Nextless.js](https://nextlessjs.com):** 66% Off  
-  Next.js SaaS Boilerplate with Tailwind CSS.  
-- **[Polypane](https://polypane.app):** 25% Off  
-  A developer browser for building responsive sites.  
-- **[RunJS](https://runjs.app):** 30% Off  
-  Zero-config JavaScript playground for instant feedback.  
+### 💻 **Developer Tools**
+**[Nextless.js](https://nextlessjs.com)**  
+66% Off – SaaS boilerplate with Tailwind CSS.  
+
+**[Polypane](https://polypane.app)**  
+25% Off – A responsive design-focused browser.  
+
+**[RunJS](https://runjs.app)**  
+30% Off – Instant JavaScript feedback playground.  
+
+**[Vue PDF Viewer](https://vue-pdf-viewer.dev)**  
+55% Off – Seamless Vue.js PDF viewer.  
+
+**[Shipixen](https://shipixen.com)**  
+$100 Off – Build SaaS websites faster with templates.  
 
 ---
 
-## 🎨 Design & Creativity Suite  
-- **[Figma](https://www.figma.com):** 40% Off  
-  Create stunning professional designs effortlessly.  
-- **[Tailkit](https://tailkit.com):** 50% Off  
-  Tailwind CSS components library for all projects.  
-- **[Canva](https://www.canva.com):** 50% Off  
-  Pro creative tools for stunning visuals and designs.  
+### 🎨 **Design & Creativity**
+**[Figma](https://figma.com)**  
+40% Off – Design tools for professionals.  
+
+**[Canva](https://canva.com)**  
+50% Off – Easy-to-use creative design tools.  
+
+**[Tailkit](https://tailkit.com)**  
+50% Off – Tailwind CSS component library.  
+
+**[GrayGrids](https://graygrids.com)**  
+60% Off – Premium templates for startups.  
+
+**[Marmo UI](https://marmoui.com)**  
+70% Off – Design system for Figma projects.  
 
 ---
 
-## 📚 Books & Courses  
-- **[Code Reviews in Tech](https://gracehuang.gumroad.com):** 40% Off  
-  Master the art of efficient code review.  
-- **[LabEx](https://labex.io):** Up to 50% Off  
-  Learn Linux, DevOps & Cybersecurity with hands-on labs.  
-- **[Dynamic Trio Course](https://gracehuang.gumroad.com):** 40% Off  
-  Build apps using React, Next.js, and Tailwind CSS.  
+### 📚 **Books & Courses**
+**[LabEx](https://labex.io)**  
+50% Off – Learn Linux, DevOps, and cybersecurity with labs.  
+
+**[Code Reviews in Tech](https://gracehuang.gumroad.com)**  
+40% Off – Improve your code review processes.  
+
+**[DNS for Developers](https://nslookup.io)**  
+66% Off – Deep dive into DNS essentials.  
 
 ---
 
-## ♻️ SaaS Software  
-- **[DeployHQ](https://deployhq.com):** 50% Off  
-  Code deployment directly from your repository.  
-- **[Seobility](https://seobility.net):** Free 60-day Premium + 15% Off  
-  Boost your website's SEO performance.  
-- **[Gleam.so](https://gleam.so):** 75% Off  
-  Create beautiful OpenGraph images in seconds.  
+### ♻️ **SaaS Software**
+**[DeployHQ](https://deployhq.com)**  
+50% Off – Automated code deployment tools.  
+
+**[Seobility](https://seobility.net)**  
+Free 60 Days + 15% Off – All-in-one SEO toolkit.  
+
+**[CleanClip](https://cleanclip.cc)**  
+30% Off – Advanced clipboard manager for macOS.  
+
+**[RogerRoger](https://rogerroger.io)**  
+40% Off – Sales inbox with CRM integration.  
+
+**[FormBold](https://formbold.com)**  
+40% Off – Serverless form API for all platforms.  
 
 ---
 
+### 📊 **Productivity Tools**
+**[Notion](https://notion.so)**  
+50% Off – All-in-one workspace for teams.  
+
+**[Slack](https://slack.com)**  
+35% Off – Business communication made easy.  
+
+**[Asana](https://asana.com)**  
+25% Off – Simplify project management.  
+
+---
+
+### 🔍 **SEO & Marketing Tools**
+**[PushAlert](https://pushalert.co)**  
+30% Off – Real-time push notification platform.  
+
+**[BacklinkMonitor](https://backlinkmonitor.com)**  
+30% Off – Optimize link tracking strategies.  
+
+**[Octoparse](https://octoparse.com)**  
+45% Off – Web scraping without coding.  
+
+---
+
+### 📩 **Newsletters & Communities**
+**[HoneyPot](https://unapologeticih.gumroad.com)**  
+50% Off – Database of 1,100+ Beehiiv newsletters.  
+
+**[GhostHunt](https://unapologeticih.gumroad.com)**  
+50% Off – Ghost.org newsletter database.  
+
+**[SubSearchr](https://unapologeticih.gumroad.com)**  
+50% Off – Substack newsletter insights.  
+
+---
+
+### 💾 **Apps & Miscellaneous**  
+**[Zen Mode for macOS](https://zenmode.app)**  
+55% Off – Focus tool for public and meeting spaces.  
+
+**[DriveDex](https://apple.co/3C8HoJX)**  
+Free – Mileage and expense tracking for vehicles.  
+
+**[AudioWrangler](https://audiowrangler.app)**  
+50% Off – Manage macOS sound device preferences.  
+
+---
 
 ## 🔥 Exclusive Black Friday Insights
 - 🕒 Deals Active: November 24-30, 2024
