@@ -1,70 +1,80 @@
-# 🎉 Awesome Black Friday & Cyber Monday deals - 2024
+# 🎉 Awesome Black Friday & Cyber Monday Deals - 2024
 
 ## 🌟 Premium Sponsor Platforms
 
-### [mnml.ai](https://mnml.ai) 🧠
-- **Exclusive Offer:** 45% Off with all plans
-- **Coupon Code:** `BF25`
-- **Pro Features:**
-  - 2X Credits limit for limited time
-  - Monthly & One time credits Subscription
-  - AI Upscale, AI Enhancer included
-  - InteriorAI, ExteriorAi, Canvas with all premium tools
+### [mnml.ai](https://mnml.ai) 🧠  
+- **Offer:** 45% Off all plans  
+- **Pro Features:**  
+  - 2X Credits Limit for a limited time  
+  - Monthly & One-time Credits Subscription  
+  - Includes AI Upscale, AI Enhancer, InteriorAI, and ExteriorAI  
 
-### [StaticHost.host](https://statichost.host) 🚀
-- **Exclusive Discount:** 15% Off Cloud Infrastructure
-- **Coupon Code:** `WELCOME`
-- **Pro Features:** 
-  - Unlimited Scalable Hosting
-  - Custom Domain Integration
-  - Unlimited Traffic
-  - 24/7 Advanced Support
+### [StaticHost.host](https://statichost.host) 🚀  
+- **Offer:** 15% Off Cloud Infrastructure  
+- **Pro Features:**  
+  - Unlimited Scalable Hosting  
+  - Custom Domain Integration  
+  - Unlimited Traffic  
+  - 24/7 Advanced Support  
+
+---
 
 ## 🤖 Top AI & Machine Learning Deals
+- **[MindPal](https://mindpal.io):** 60% Off Yearly Plans  
+  Automate business processes with AI workflows.  
+- **[Airbrush](https://www.airbrush.ai):** 75% Off  
+  Create high-quality images with 100+ AI models.  
+- **[PDF Pals](https://pdfpals.com):** 53% Off  
+  Chat with PDFs for enhanced productivity.  
+- **[WhisperUI](https://whisperui.com):** 60% Off  
+  Affordable speech-to-text service powered by OpenAI.  
 
-| Platform | Deal | Coupon Code | Savings |
-|----------|------|-------------|---------|
-| [OpenAI](https://openai.com) | ChatGPT Pro Extended | AIBOOST24 | 20% Off |
-| [Anthropic](https://www.anthropic.com) | Claude Pro Unlimited | CLAUDE2024 | 25% Off |
-| [Midjourney](https://www.midjourney.com) | AI Art Membership | IMAGINE2024 | 30% Off |
-| [Jasper AI](https://www.jasper.ai) | Content Creation Pro | WRITEAI50 | 55% Off |
+---
 
-## 📊 Productivity Powerhouse
+## 💻 Developer Tools  
+- **[Nextless.js](https://nextlessjs.com):** 66% Off  
+  Next.js SaaS Boilerplate with Tailwind CSS.  
+- **[Polypane](https://polypane.app):** 25% Off  
+  A developer browser for building responsive sites.  
+- **[RunJS](https://runjs.app):** 30% Off  
+  Zero-config JavaScript playground for instant feedback.  
 
-| Platform | Deal | Coupon Code | Savings |
-|----------|------|-------------|---------|
-| [Notion](https://notion.so) | Team Workspace | NOTION50 | 50% Off |
-| [Slack](https://slack.com) | Business Communication | CONNECT24 | 35% Off |
-| [Asana](https://asana.com) | Project Management | WORKFLOW25 | 25% Off |
-| [Trello](https://trello.com) | Collaboration Tools | BOARD40 | 40% Off |
+---
 
-## 🎨 Design & Creativity Suite
+## 🎨 Design & Creativity Suite  
+- **[Figma](https://www.figma.com):** 40% Off  
+  Create stunning professional designs effortlessly.  
+- **[Tailkit](https://tailkit.com):** 50% Off  
+  Tailwind CSS components library for all projects.  
+- **[Canva](https://www.canva.com):** 50% Off  
+  Pro creative tools for stunning visuals and designs.  
 
-| Platform | Deal | Coupon Code | Savings |
-|----------|------|-------------|---------|
-| [Figma](https://www.figma.com) | Professional Design | DESIGN40 | 40% Off |
-| [Canva](https://www.canva.com) | Pro Creative Tools | CREATE50 | 50% Off |
-| [Adobe Creative Cloud](https://www.adobe.com) | Creative Suite | CREATIVE40 | 40% Off |
+---
 
-## 📝 Writing & Content Magic
+## 📚 Books & Courses  
+- **[Code Reviews in Tech](https://gracehuang.gumroad.com):** 40% Off  
+  Master the art of efficient code review.  
+- **[LabEx](https://labex.io):** Up to 50% Off  
+  Learn Linux, DevOps & Cybersecurity with hands-on labs.  
+- **[Dynamic Trio Course](https://gracehuang.gumroad.com):** 40% Off  
+  Build apps using React, Next.js, and Tailwind CSS.  
 
-| Platform | Deal | Coupon Code | Savings |
-|----------|------|-------------|---------|
-| [Grammarly](https://www.grammarly.com) | Premium Writing | WRITE50 | 50% Off |
-| [ProWritingAid](https://prowritingaid.com) | Lifetime Editing | EDIT50 | 50% Off |
-| [Wordtune](https://www.wordtune.com) | AI Writing Assistant | TUNE40 | 40% Off |
+---
 
-## 💻 Developer Toolkit
+## ♻️ SaaS Software  
+- **[DeployHQ](https://deployhq.com):** 50% Off  
+  Code deployment directly from your repository.  
+- **[Seobility](https://seobility.net):** Free 60-day Premium + 15% Off  
+  Boost your website's SEO performance.  
+- **[Gleam.so](https://gleam.so):** 75% Off  
+  Create beautiful OpenGraph images in seconds.  
 
-| Platform | Deal | Coupon Code | Savings |
-|----------|------|-------------|---------|
-| [GitHub](https://github.com) | Pro Developer Features | CODE40 | 40% Off |
-| [JetBrains](https://www.jetbrains.com) | IDE Subscriptions | DEV30 | 30% Off |
-| [Netlify](https://www.netlify.com) | Web Deployment | WEB40 | 40% Off |
+---
+
 
 ## 🔥 Exclusive Black Friday Insights
 - 🕒 Deals Active: November 24-30, 2024
 - 💡 Limited Quantum Offers
 - 🏆 First-Come, First-Served Specials
 
-*🌈 Curated with ❤️ for Tech Enthusiasts*
+Let me know if you need further edits or more categories added! 😊
